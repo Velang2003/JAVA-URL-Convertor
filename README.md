@@ -1,27 +1,29 @@
-#Java Link Shortener
+# Java Link Shortener
+
 A simple Java-based URL shortener that allows users to shorten long URLs and expand shortened URLs back to their original form. This project includes basic error handling and persistence to maintain link mappings between sessions.
 
-#Features
+# Features
+
 **URL Shortening:** Convert long URLs into shorter, more manageable URLs.
 **URL Expansion:** Expand shortened URLs back to their original form.
 **Collision Handling:** Ensures uniqueness of short URLs by handling potential collisions.
 **CLI Interface:** Provides a simple command-line interface for user interaction.
 
-#Requirements
+# Requirements
 - Java Development Kit (JDK): Ensure JDK is installed on your system.
 - Java Runtime Environment (JRE): Required for running the compiled program.
 
 **Clone the Repository:**
-'''https://github.com/Velang2003/JAVA-URL-Convertor.git
+*https://github.com/Velang2003/JAVA-URL-Convertor.git*
 
 **Compile the Program:**
-'''javac LinkShortener.java CLI.java
+*javac LinkShortener.java CLI.java*
 
 **Run the Program:**
-'''java LinkShortener
+*java LinkShortener*
 
-##Usage
-#Command-Line Interface
+# Usage
+## Command-Line Interface
 The program provides a simple CLI for user interaction:
 Shorten URL:
 Choose option 1 to shorten a long URL.
@@ -32,7 +34,7 @@ Enter the short URL when prompted.
 Exit:
 Choose option 3 to exit the program.
 
-##Example Interaction
+## Example Interaction
 1. Shorten URL
 2. Expand URL
 3. Exit
