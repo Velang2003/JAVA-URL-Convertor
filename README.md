@@ -35,17 +35,17 @@ Exit:
 Choose option 3 to exit the program.
 
 ## Example Interaction
-1. Shorten URL
-2. Expand URL
-3. Exit
-Choose an option: 1
-Enter the long URL: https://www.example.com/very/long/url
-Short URL: abc123
+- Shorten URL
+- Expand URL
+- Exit
+- Choose an option: 1
+- Enter the long URL: https://www.example.com/very/long/url
+- Short URL: abc123
 
-1. Shorten URL
-2. Expand URL
-3. Exit
-Choose an option: 2
-Enter the short URL: abc123
-Long URL: https://www.example.com/very/long/url
+- Shorten URL
+- Expand URL
+- Exit
+- Choose an option: 2
+- Enter the short URL: abc123
+- Long URL: https://www.example.com/very/long/url
 
