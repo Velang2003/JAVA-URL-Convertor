@@ -39,7 +39,7 @@ public class CLI {
         System.out.print("Enter the long URL: ");
         String longURL = scanner.nextLine();
         String shortURL = linkShortener.shortenURL(longURL);
-        System.out.println("Short URL: " + shortURL);
+        System.out.println("Short URL: https://localhost/" + shortURL);
     }
 
     private void expandURL() {
